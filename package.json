@@ -1,0 +1,23 @@
+{
+  "name": "pre-launch-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saurabhdaswant/pre-launch-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saurabhdaswant/pre-launch-landing-page/issues"
+  },
+  "homepage": "https://github.com/Saurabhdaswant/pre-launch-landing-page#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.2"
+  }
+}
